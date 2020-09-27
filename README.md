@@ -72,5 +72,5 @@ param = [
 #### Metrics
 ![](images/metric_table.JPG)
 
-#### Visuals
+#### Visuals  
 ![](images/accuracy.JPG)
