@@ -70,7 +70,7 @@ param = [
 ![](images/confusion_matrix.JPG)
 
 #### Metrics
-![](images/metric_table.JPG)
+![](images/metric_table.JPG) 
 
 #### Visuals  
 ![](images/accuracy.JPG)
