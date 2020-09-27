@@ -69,8 +69,9 @@ param = [
 ### confusion matrix
 ![](images/confusion_matrix.JPG)
 
+### Visuals  
+![](images/model.jpg)
+
 ### Metrics
 ![](images/metric_table.JPG) 
 
-### Visuals  
-![](images/model.jpg)
