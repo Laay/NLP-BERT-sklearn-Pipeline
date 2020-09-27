@@ -66,11 +66,11 @@ param = [
 
 ## Model Results
 
-#### confusion matrix
+### confusion matrix
 ![](images/confusion_matrix.JPG)
 
-#### Metrics
+### Metrics
 ![](images/metric_table.JPG) 
 
-#### Visuals  
-![](images/model.JPG)
+### Visuals  
+![](images/model.jpg)
