@@ -73,4 +73,4 @@ param = [
 ![](images/metric_table.JPG) 
 
 #### Visuals  
-![](images/accuracy.JPG)
+![](images/model.JPG)
