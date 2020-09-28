@@ -74,4 +74,4 @@ param = [
 
 ### Metrics
 ![](images/metric_table.JPG) 
-
+\
